@@ -57,5 +57,5 @@ def part2(data):
 
     return count
 
-# print(part1(data))
+print(part1(data))
 print(part2(data))
